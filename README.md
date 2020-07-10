@@ -8,7 +8,7 @@
 #### Here are some things to get to know:
 - 🔭 I’m currently working on [ikiteo.com](https://ikiteo.com/)
 - 💻 I’m currently working at [EPAM](https://epam.com/)
-- 🌱 I’m currently learning project and resourse managment
+- 🌱 I’m currently learning project and resource managment
 - 💬 Ask me about JS, projects, technologes, peoples
 - ⚡ Fun fact: dinos can't read that text
 ```
