@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## My name is Vikentii and I am JavaScript-developer and conference speaker!
+## My name is Vikentii and I am Tech Lead, Conference Speaker and Career consultant.
 
 
 <img src="https://sun9-33.userapi.com/c855436/v855436071/96c66/FEDRkvU2QMI.jpg" width="450" height="300">
