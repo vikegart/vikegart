@@ -6,8 +6,7 @@
 <img src="https://sun9-33.userapi.com/c855436/v855436071/96c66/FEDRkvU2QMI.jpg" width="450" height="300">
 
 #### Here are some things to get to know:
-- 💻 I’m currently working at [EPAM](https://epam.com/)
-- 🌱 I’m currently learning project and resource managment
+- 💻 I’m currently avaible for **consulting in Career path/growth or Tech Leading**
 - 💬 Ask me about JS, projects, technologes, peoples
 - ⚡ Fun fact: dinos can't read that text
 ```
@@ -22,11 +21,12 @@
 
 ##### Expierenced in:
 * Project managment
+* People growth
+* Interviwing candidates
+* Next JS
 * React.js
 * Redux
 * Sass/SCSS
-* Node.js (Express)
-* Vue
-* Vanilla JS
-* Perfomance optimization
+* Node.js
+* Perfomance optimization (TTB, CLS, FCP, Lighthouse)
 
